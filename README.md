@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wasay999-rog
-- 👀 I’m interested in data weather it be science, analytics or engineering
+- 👀 I’m interested in data, weather it be science, analytics or engineering
 - 🌱 I’m currently learning about cloud infrastructure
 - 📫 How to reach me mohammedwasay69@outlook.com
 - 😄 Pronouns: he/him
