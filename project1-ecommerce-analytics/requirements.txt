@@ -1,0 +1,81 @@
+# Core Data Science Libraries
+pandas==2.0.3
+numpy==1.24.3
+scipy==1.11.1
+scikit-learn==1.3.0
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Database Connections
+sqlalchemy==2.0.19
+psycopg2-binary==2.9.7
+pymysql==1.1.0
+snowflake-connector-python==3.0.4
+snowflake-sqlalchemy==1.4.7
+
+# AWS Services
+boto3==1.28.25
+awscli==1.29.25
+s3fs==2023.6.0
+
+# Apache Airflow
+apache-airflow==2.6.2
+apache-airflow-providers-snowflake==4.1.1
+apache-airflow-providers-amazon==8.2.0
+apache-airflow-providers-postgres==5.5.1
+
+# Data Processing
+dask==2023.7.1
+pyarrow==12.0.1
+fastparquet==2023.7.0
+
+# Machine Learning
+xgboost==1.7.6
+lightgbm==4.0.0
+catboost==1.2
+imbalanced-learn==0.10.1
+
+# Time Series Analysis
+statsmodels==0.14.0
+prophet==1.1.4
+
+# Excel Integration
+openpyxl==3.1.2
+xlsxwriter==3.1.2
+
+# API and Web
+flask==2.3.2
+requests==2.31.0
+fastapi==0.100.1
+uvicorn==0.23.1
+
+# Configuration and Utilities
+pyyaml==6.0
+python-dotenv==1.0.0
+click==8.1.6
+tqdm==4.65.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+great-expectations==0.17.8
+
+# Data Quality
+pandera==0.15.2
+
+# Visualization Export
+kaleido==0.2.1
+
+# Logging and Monitoring
+loguru==0.7.0
+
+# Development Tools
+jupyter==1.0.0
+ipykernel==6.25.0
+black==23.7.0
+flake8==6.0.0
+
+# Documentation
+mkdocs==1.5.0
+mkdocs-material==9.1.21
